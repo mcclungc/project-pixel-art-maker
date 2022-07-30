@@ -21,7 +21,6 @@ function makeGrid(event) {
 	event.preventDefault();
 	let canvas = document.querySelector("#pixelCanvas");
 	makeTable(canvas);
-	console.log(canvas);
 }
 
 
